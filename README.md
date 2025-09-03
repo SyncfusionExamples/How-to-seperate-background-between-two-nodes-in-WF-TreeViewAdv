@@ -1,6 +1,6 @@
-# How-to-seperate-background-between-two-nodes-in-WF-TreeViewAdv
+# How to separate background between two adjacent nodes in WinForms TreeViewAdv?
 
-You can separate the background between two adjacent nodes in [WinForms TreeViewAdv](https://www.syncfusion.com/winforms-ui-controls/treeview) control by using BeforeNodePaint event.
+You can separate the background between two adjacent nodes in [WinForms TreeViewAdv](https://www.syncfusion.com/winforms-ui-controls/treeview) control by using [BeforeNodePaint](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Tools.TreeViewAdv.html#Syncfusion_Windows_Forms_Tools_TreeViewAdv_BeforeNodePaint) event.
 
 Refer the below code for your reference.
 
