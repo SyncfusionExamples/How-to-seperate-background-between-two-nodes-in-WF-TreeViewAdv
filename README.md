@@ -27,3 +27,5 @@ Private Sub TreeViewAdv1_BeforeNodePaint1(ByVal sender As Object, ByVal e As Tre
     e.Graphics.DrawRectangle(New Pen(Color.Red), e.Node.Bounds)
 End Sub
 ```
+
+![Background between adjacent nodes](output.png)
